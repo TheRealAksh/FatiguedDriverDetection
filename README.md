@@ -1,4 +1,4 @@
-# FatiguedDriverDetectionSystemByAB
+# Fatigued Drive rDetection System by AB
 This project involves the application of principles from Computer Vision and Deep Learning to identify driver's fatigue/drowsiness, triggering an alert when such a state is detected.
 
 • Constructed a drowsiness detection model for drivers utilizing real-time Eye-Tracking in videos through Haar Cascades and the CamShift algorithm.
